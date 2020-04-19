@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  border: solid 1px;
+}
